@@ -1,8 +1,7 @@
-Hello! I'm a passionate Software Programming Technician with a strong focus on web application development and solving complex problems. I have experience in a variety of programming languages, including PHP, JavaScript, and SQL, and I'm well-versed in additional technologies such as Python, Swift, Node.js, Laravel, React, and MySQL.
+Hello! I'm a passionate Software Programming Technician with a strong focus on web application development and solving complex problems. I have experience in a variety of programming languages, including C#, JavaScript, and SQL, and I'm well-versed in additional technologies such as Python, Node.js, Angular, React, and MySQL, SQL Server.
 
 ## Skills
 
-- **Languages**: PHP, JavaScript, SQL, Python, Swift, Node.js, Laravel, React, MySQL
 - **Version Control**: Proficient in using GitLab for version control
 - **Web Development**: Skilled in designing and architecting web platforms
 - **Problem-Solving**: Strong capability to identify issues and develop efficient solutions
